@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning **Machine Learning and Deep Learning**
 
-- 👯 I’m looking to collaborate on **Web Development projects**
+- 👯 I’m looking to collaborate on **Machine Learning and Deep Learning projects**
 
-- 💬 Ask me about **HTML5,CSS3, JavaScript, Python**
+- 💬 Ask me about **Machine Learning, Deep Learning, Medical AI, Satellite AI, Python**
 
 - ⚡ Fun fact **I am cheerful**
 
